@@ -1,6 +1,5 @@
-streamlit>=1.37
-rdkit
+﻿streamlit
+rdkit==2024.9.6
 plotly
 pandas
 reportlab
-pytest
